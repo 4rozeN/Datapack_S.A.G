@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    "GEG"
+  ],
+  "key": {
+    "I": { "item": "anim_guns:hardened_iron_ingot" },
+    "G": { "item": "anim_guns:hardened_iron_nugget" },
+    "E": { "item": "anim_guns:enriched_iron" }
+  },
+  "result": {
+    "item": "anim_guns:grip_foregrip"
+  }
+}

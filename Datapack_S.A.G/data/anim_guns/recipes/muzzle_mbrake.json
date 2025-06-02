@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GIG",
+    "   ",
+    " E "
+  ],
+  "key": {
+    "G": { "item": "anim_guns:hardened_iron_nugget" },
+    "I": { "item": "anim_guns:hardened_iron_ingot" },
+    "E": { "item": "anim_guns:enriched_iron" }
+  },
+  "result": {
+    "item": "anim_guns:muzzle_mbrake"
+  }
+}

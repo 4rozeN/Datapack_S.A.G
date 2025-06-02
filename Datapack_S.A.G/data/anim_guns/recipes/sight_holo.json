@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PGP",
+    " R ",
+    " E "
+  ],
+  "key": {
+    "P": { "item": "anim_guns:plastic" },
+    "G": { "item": "minecraft:glass_pane" },
+    "R": { "item": "minecraft:redstone" },
+    "E": { "item": "anim_guns:enriched_iron" }
+  },
+  "result": {
+    "item": "anim_guns:sight_holo"
+  }
+}
